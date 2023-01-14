@@ -7,7 +7,7 @@ It's just a simple little shell I made because I was bored. It's not meant to co
 
 Open the Pythonista Console (Or python on other platforms) and paste in the following code.
 
-```
+```python
 import requests as rq; exec(rq.get("https://bit.ly/inst-pysh").content)
 ```
 
