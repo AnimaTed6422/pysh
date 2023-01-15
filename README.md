@@ -15,4 +15,6 @@ import requests as rq; exec(rq.get("https://bit.ly/inst-pysh").content)
 
 > WARNING: Certain Commands may break when using platforms other than Pythonista.
 
+Run `shell.py`, and type in some commands.
+
 Type the Help commands to see a list of commands. The titles are similar to that of Bash or CMD.
